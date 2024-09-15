@@ -18,4 +18,6 @@
 !resourcepacks/*
 !resourcepacks/*/pack.mcmeta
 
+!schematics
+
 !icon.png
