@@ -10,6 +10,9 @@
 !config/*.cfg
 !config/*.json
 
+!wurst
+!wurst/*
+
 !mods
 !mods/.index
 !mods/.index/*.pw.toml
