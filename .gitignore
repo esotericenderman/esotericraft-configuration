@@ -3,3 +3,4 @@
 !.gitignore
 
 !options.txt
+!config/*
