@@ -10,3 +10,7 @@
 !mods
 !mods/.index
 !mods/.index/*.pw.toml
+
+!resourcepacks
+!resourcepacks/*
+!resourcepacks/*/pack.mcmeta
