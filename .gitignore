@@ -6,3 +6,7 @@
 
 !config
 !config/*
+
+!mods
+!mods/.index
+!mods/.index/*.pw.toml
