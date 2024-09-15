@@ -1,0 +1,13 @@
+filename = 'malilib-fabric-1.21-0.20.0.jar'
+name = 'MaLiLib - Community Updated'
+side = 'both'
+
+[download]
+hash = 'ed2e45ab2caef9ed16517458827ac2a8bf5962ad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5559277
+project-id = 1068882

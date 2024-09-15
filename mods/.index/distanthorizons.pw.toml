@@ -1,0 +1,13 @@
+filename = 'DistantHorizons-2.1.2-a-1.21-neo-fabric.jar'
+name = 'Distant Horizons'
+side = 'client'
+
+[download]
+hash = '8088878d2e78d0cb18cfd8d5d3833141861fdb15c686867ab249337a9561f3573d88ab5a6e2a2acb759c8a539a60a5229c951bc8e5db9479bd5e544875ba621c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uCdwusMi/versions/NCz4yZ3v/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar'
+
+[update.modrinth]
+mod-id = 'uCdwusMi'
+version = 'NCz4yZ3v'

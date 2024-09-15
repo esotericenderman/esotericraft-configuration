@@ -1,0 +1,13 @@
+filename = 'minihud-fabric-1.21-0.31.999-sakura.12.jar'
+name = 'Minihud - Community Updated'
+side = 'both'
+
+[download]
+hash = 'e765a826e994a3d192b66bd6ca646f7d873ad2cb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5559279
+project-id = 1068914
