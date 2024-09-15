@@ -16,3 +16,5 @@
 !resourcepacks
 !resourcepacks/*
 !resourcepacks/*/pack.mcmeta
+
+!icon.png
