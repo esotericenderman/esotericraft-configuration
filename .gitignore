@@ -21,6 +21,8 @@
 !resourcepacks/*
 !resourcepacks/*/pack.mcmeta
 
+!resourcepacks/VanillaTweaks_r*_MC*.*.*/Selected Packs.txt
+
 !schematics
 !schematics/*
 
