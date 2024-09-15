@@ -1,7 +1,8 @@
-*.*
-server-resource-packs/legacy
+*
 
 !.gitignore
 
 !options.txt
+
+!config
 !config/*
