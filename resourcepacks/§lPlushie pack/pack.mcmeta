@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 22,
+	"supported_formats":[0,99],
+    "description": "§6•Turns player heads into plushies"
+  }
+}
