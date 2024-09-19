@@ -7,6 +7,8 @@
 !servers.dat
 
 !config
+!config/*
+
 !config/*.cfg
 !config/*.json
 !config/*.txt
@@ -14,6 +16,17 @@
 !config/*.properties
 !config/*.conf
 !config/*.toml
+!config/*.yml
+!config/*.yaml
+
+!config/*/*.cfg
+!config/*/*.txt
+!config/*/*.json5
+!config/*/*.properties
+!config/*/*.conf
+!config/*/*.toml
+!config/*/*.yml
+!config/*/*.yaml
 
 !wurst
 !wurst/*
