@@ -48,8 +48,8 @@ mouseSensitivity:0.4037558685446012
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/FreshAnimations_v1.9.zip","file/VanillaTweaks_r814360_MC1.21.x.zip","fabric"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.9.zip","replaymod","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","file/VanillaTweaks_r814360_MC1.21.x","file/FreshAnimations_v1.9","file/§lPlushie pack","black_icons"]
+incompatibleResourcePacks:["replaymod","tweakeroo","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/FreshAnimations_v1.9"]
 lastServer:localhost
 lang:en_us
 chatVisibility:0
