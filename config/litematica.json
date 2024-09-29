@@ -132,7 +132,7 @@
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "M"
+      "keys": "SEMICOLON"
     },
     "openGuiMaterialList": {
       "keys": "M,L"
