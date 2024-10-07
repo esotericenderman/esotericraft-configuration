@@ -2,6 +2,9 @@
 
 !.gitignore
 
+!.vscode
+!.vscode/*
+
 !options.txt
 
 !servers.dat
