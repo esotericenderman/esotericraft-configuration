@@ -38,7 +38,7 @@
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
     "materialListIgnoreState": false,
-    "pasteAlwaysUseFill": false,
+    "pasteAlwaysUseFill": true,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
     "pasteIgnoreCommandLimitWithNbtRestore": true,
@@ -62,7 +62,7 @@
     "signTextPaste": true,
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
-    "pasteReplaceBehavior": "none",
+    "pasteReplaceBehavior": "all",
     "selectionCornersMode": "corners",
     "commandFillMaxVolume": 32768,
     "commandLimitPerTick": 24,
@@ -93,7 +93,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": ""
+      "keys": "INSERT"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
