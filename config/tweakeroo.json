@@ -721,7 +721,7 @@
     "tweakBreakingRestriction": false,
     "tweakChatBackgroundColor": false,
     "tweakChatPersistentText": true,
-    "tweakChatTimestamp": true,
+    "tweakChatTimestamp": false,
     "tweakCommandBlockExtraFields": false,
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
