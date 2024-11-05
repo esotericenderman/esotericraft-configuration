@@ -32,7 +32,8 @@
 		debug: {
 			enable_default_searchers: true,
 			print_search_time: false,
-			force_server_side_highlights_only: false
+			force_server_side_highlights_only: false,
+			labels_are_see_through: false
 		}
 	},
 	server: {

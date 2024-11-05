@@ -170,6 +170,12 @@ globalExecutorParallelism = "default"
 	#  Only applies when async chunk loading is enabled
 	# 
 	recoverFromErrors = "default"
+	# (Default: true) This option workarounds MC-276863, a bug that makes mushrooms appear in non-postprocessed chunks
+	# This bug is amplified with notickvd as it exposes non-postprocessed chunks to players
+	# 
+	# This should not affect other worldgen behavior and game mechanics in general
+	# 
+	suppressGhostMushrooms = "default"
 	# (Default: true) Whether to allow POIs (Point of Interest) to be unloaded
 	# Unloaded POIs are reloaded on-demand or when the corresponding chunks are loaded again,
 	# which should not cause any behavior change
@@ -180,10 +186,4 @@ globalExecutorParallelism = "default"
 	# in a single world instance
 	# 
 	allowPOIUnloading = "default"
-	# (Default: true) This option workarounds MC-276863, a bug that makes mushrooms appear in non-postprocessed chunks
-	# This bug is amplified with notickvd as it exposes non-postprocessed chunks to players
-	# 
-	# This should not affect other worldgen behavior and game mechanics in general
-	# 
-	suppressGhostMushrooms = "default"
 

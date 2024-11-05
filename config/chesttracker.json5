@@ -16,11 +16,11 @@
 		}
 	},
 	rendering: {
-		display_container_names: true,
 		name_range: 24
 	},
 	debug: {
-		show_dev_hud: false
+		show_dev_hud: false,
+		disable_container_names: false
 	},
 	storage: {
 		readable_json_memories: true,
@@ -28,6 +28,11 @@
 	},
 	compatibility: {
 		shulker_box_tooltip_integration: true,
-		wthit_integration: true
+		wthit_integration: true,
+		litematica: {
+			material_list_search_buttons: true,
+			count_ender_chest_materials: true,
+			count_nearby_materials: false
+		}
 	}
 }
