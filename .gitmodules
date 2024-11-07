@@ -32,5 +32,5 @@
 	path = saves/tss-survival-test-world
 	url = git@github.com:TheSlimySwamp/survival-test-world.git
 [submodule ".mods/mod-menu"]
-	path = .mods/mod-menu
+	path = mod-menu
 	url = git@github.com:TerraformersMC/ModMenu.git

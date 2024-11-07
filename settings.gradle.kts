@@ -1,3 +1,3 @@
 rootProject.name = "minecraft-configuration"
 
-include("modmenu")
+include("mod-menu")
