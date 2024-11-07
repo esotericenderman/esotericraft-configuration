@@ -41,6 +41,24 @@
 !mods/.index
 !mods/.index/*.pw.toml
 
+!saves
+
+!saves/dungeon-crawler-minecraft-map
+
+!saves/firework-wars-barracks-map
+!saves/firework-wars-town-map
+
+!saves/bedwars-desert
+!saves/bedwars-savannah
+!saves/bedwars-snowy-taiga
+
+!saves/block-warriors-world
+
+!saves/tss-lobby-world
+
+!saves/tss-slime-labs-test-world
+!saves/tss-survival-test-world
+
 !resourcepacks
 !resourcepacks/*
 !resourcepacks/*/pack.mcmeta
