@@ -41,6 +41,9 @@
 !mods/.index
 !mods/.index/*.pw.toml
 
+!.mods
+!.mods/*
+
 !saves
 
 !saves/dungeon-crawler-minecraft-map
