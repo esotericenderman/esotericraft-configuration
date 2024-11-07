@@ -72,3 +72,6 @@
 !schematics/*
 
 !icon.png
+
+!build.gradle.kts
+!settings.gradle.kts
