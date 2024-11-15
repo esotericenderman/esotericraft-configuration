@@ -34,3 +34,6 @@
 [submodule "mod-menu"]
 	path = mod-menu
 	url = git@github.com:TerraformersMC/ModMenu.git
+[submodule "architectury"]
+	path = architectury
+	url = git@github.com:architectury/architectury-api.git
