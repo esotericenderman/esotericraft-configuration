@@ -37,3 +37,6 @@
 [submodule "architectury"]
 	path = architectury
 	url = git@github.com:architectury/architectury-api.git
+[submodule "zoomify"]
+	path = zoomify
+	url = git@github.com:isXander/Zoomify.git
