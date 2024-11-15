@@ -44,6 +44,10 @@
 !.mods
 !.mods/*
 
+!mod-menu
+!architectury
+!zoomify
+
 !saves
 
 !saves/dungeon-crawler-minecraft-map
