@@ -173,7 +173,8 @@ key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_alternative_list_players:key.keyboard.unknown
-key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
