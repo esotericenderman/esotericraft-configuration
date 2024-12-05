@@ -74,7 +74,7 @@
     "customSchematicBaseDirectory": "C:\\Users\\d\\AppData\\Roaming\\PrismLauncher\\instances\\Latest\\.minecraft\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
-    "toolItem": "minecraft:stick"
+    "toolItem": "minecraft:poisonous_potato"
   },
   "Hotkeys": {
     "addSelectionBox": {
