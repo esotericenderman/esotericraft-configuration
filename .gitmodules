@@ -1,36 +1,6 @@
 [submodule "resourcepacks/scp-resource-pack"]
 	path = resourcepacks/scp-resource-pack
 	url = git@github.com:EsotericEnderman/scp-resource-pack.git
-[submodule "saves/dungeon-crawler-minecraft-map"]
-	path = saves/dungeon-crawler-minecraft-map
-	url = git@github.com:EsotericFoundation/dungeon-crawler-minecraft-map.git
-[submodule "saves/firework-wars-barracks-map"]
-	path = saves/firework-wars-barracks-map
-	url = git@github.com:EsotericFoundation/firework-wars-barracks-map.git
-[submodule "saves/firework-wars-town-map"]
-	path = saves/firework-wars-town-map
-	url = git@github.com:EsotericFoundation/firework-wars-town-map.git
-[submodule "saves/bedwars-desert"]
-	path = saves/bedwars-desert
-	url = git@github.com:EsotericEnderman/bedwars-desert.git
-[submodule "saves/bedwars-savannah"]
-	path = saves/bedwars-savannah
-	url = git@github.com:EsotericEnderman/bedwars-savannah.git
-[submodule "saves/bedwars-snowy-taiga"]
-	path = saves/bedwars-snowy-taiga
-	url = git@github.com:EsotericEnderman/bedwars-snowy-taiga.git
-[submodule "saves/block-warriors-world"]
-	path = saves/block-warriors-world
-	url = git@github.com:EsotericEnderman/block-warriors-world.git
-[submodule "saves/tss-lobby-world"]
-	path = saves/tss-lobby-world
-	url = git@github.com:TheSlimySwamp/lobby-world.git
-[submodule "saves/tss-slime-labs-test-world"]
-	path = saves/tss-slime-labs-test-world
-	url = git@github.com:TheSlimySwamp/slime-labs-test-world.git
-[submodule "saves/tss-survival-test-world"]
-	path = saves/tss-survival-test-world
-	url = git@github.com:TheSlimySwamp/survival-test-world.git
 [submodule "mod-menu"]
 	path = mod-menu
 	url = git@github.com:TerraformersMC/ModMenu.git
