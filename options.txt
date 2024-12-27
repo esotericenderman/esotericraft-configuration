@@ -48,8 +48,8 @@ mouseSensitivity:0.4037558685446012
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Roguecraft 1.2.5.4 - Resource Pack","file/VanillaTweaks_r814360_MC1.21.x","file/FreshAnimations_v1.9","black_icons"]
-incompatibleResourcePacks:["replaymod","tweakeroo","worldedit","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/FreshAnimations_v1.9"]
+resourcePacks:["vanilla"]
+incompatibleResourcePacks:[]
 lastServer:localhost
 lang:en_us
 chatVisibility:0
