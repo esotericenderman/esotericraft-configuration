@@ -103,7 +103,7 @@ key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
-key_key.pickItem:key.keyboard.5
+key_key.pickItem:key.keyboard.4
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.p
 key_key.screenshot:key.keyboard.f2
@@ -121,7 +121,7 @@ key_key.hotbar.3:key.mouse.middle
 key_key.hotbar.4:key.keyboard.1
 key_key.hotbar.5:key.keyboard.2
 key_key.hotbar.6:key.keyboard.3
-key_key.hotbar.7:key.keyboard.4
+key_key.hotbar.7:key.keyboard.f
 key_key.hotbar.8:key.keyboard.c
 key_key.hotbar.9:key.keyboard.v
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
