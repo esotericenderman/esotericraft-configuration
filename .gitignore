@@ -6,6 +6,7 @@ logs
 command_history.txt
 
 # Cache
+cache
 usercache.json
 
 # Jar files
