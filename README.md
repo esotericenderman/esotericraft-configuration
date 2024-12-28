@@ -1,5 +1,7 @@
 # `.minecraft`
 
+[![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esotericenderman/.minecraft?style=for-the-badge&logo=github&label=Repository%20size)](./)
+
 This is my `.minecraft` folder, which includes my Minecraft configurations.
 
 ## License
