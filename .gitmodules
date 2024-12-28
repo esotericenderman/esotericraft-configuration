@@ -1,0 +1,3 @@
+[submodule "saves/firework-wars-lobby"]
+	path = saves/firework-wars-lobby
+	url = git@github.com:esotericfoundation/firework-wars-lobby.git
