@@ -86,6 +86,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
+debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:10
