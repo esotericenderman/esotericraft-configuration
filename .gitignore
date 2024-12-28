@@ -8,6 +8,7 @@ command_history.txt
 # Cache
 cache
 usercache.json
+config/viafabricplus/viabedrock/blob_cache
 
 # Jar files
 *.jar
