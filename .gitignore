@@ -3,6 +3,7 @@ downloads
 
 # Logs
 logs
+debug
 crash-reports
 command_history.txt
 
