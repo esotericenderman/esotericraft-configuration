@@ -67,5 +67,5 @@
         "send_idle_packet": "auto",
         "prevent_entity_cramming": "auto"
     },
-    "selected-protocol-version": "1.21.2-1.21.3"
+    "selected-protocol-version": "Auto Detect (1.7+ servers)"
 }
