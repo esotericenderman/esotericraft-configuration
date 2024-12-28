@@ -124,6 +124,8 @@ key_key.hotbar.6:key.keyboard.3
 key_key.hotbar.7:key.keyboard.4
 key_key.hotbar.8:key.keyboard.f
 key_key.hotbar.9:key.keyboard.c
+key_key.entityculling.toggle:key.keyboard.unknown
+key_key.modmenu.open_menu:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
