@@ -10,3 +10,6 @@ usercache.json
 
 # Jar files
 *.jar
+
+# "Old" data files - unneeded
+*.dat_old
