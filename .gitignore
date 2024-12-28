@@ -15,3 +15,6 @@ config/viafabricplus/viabedrock/blob_cache
 
 # "Old" data files - unneeded
 *.dat_old
+
+# Screenshots
+screenshots
