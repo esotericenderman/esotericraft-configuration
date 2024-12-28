@@ -3,3 +3,7 @@ downloads
 
 # Logs
 logs
+command_history.txt
+
+# Cache
+usercache.json
