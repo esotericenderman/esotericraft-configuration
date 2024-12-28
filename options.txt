@@ -122,8 +122,8 @@ key_key.hotbar.4:key.keyboard.1
 key_key.hotbar.5:key.keyboard.2
 key_key.hotbar.6:key.keyboard.3
 key_key.hotbar.7:key.keyboard.4
-key_key.hotbar.8:key.keyboard.f
-key_key.hotbar.9:key.keyboard.c
+key_key.hotbar.8:key.keyboard.c
+key_key.hotbar.9:key.keyboard.v
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
