@@ -1,3 +1,6 @@
 [submodule "saves/firework-wars-lobby"]
 	path = saves/firework-wars-lobby
 	url = git@github.com:esotericfoundation/firework-wars-lobby.git
+[submodule "saves/firework-wars-barracks-map"]
+	path = saves/firework-wars-barracks-map
+	url = git@github.com:esotericfoundation/firework-wars-barracks-map.git
