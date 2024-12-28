@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla"]
+resourcePacks:["vanilla","fabric"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_gb
