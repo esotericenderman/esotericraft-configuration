@@ -12,7 +12,7 @@
     "hide_mod_license": false,
     "hide_badges": false,
     "hide_mod_credits": false,
-    "easter_eggs": true,
+    "easter_eggs": false,
     "random_java_colors": false,
     "translate_names": true,
     "translate_descriptions": true,
