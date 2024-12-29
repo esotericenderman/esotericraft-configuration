@@ -23,3 +23,6 @@ screenshots
 
 # Worlds - should be saved with submodules anyways
 saves
+
+# WorldEdit archive
+config/worldedit/.archive-unpack
