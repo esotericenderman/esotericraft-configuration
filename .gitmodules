@@ -7,3 +7,12 @@
 [submodule "saves/firework-wars-town-map"]
 	path = saves/firework-wars-town-map
 	url = git@github.com:esotericfoundation/firework-wars-town-map.git
+[submodule "saves/season-i"]
+	path = saves/season-i
+	url = git@github.com:slimesmp/season-i.git
+[submodule "saves/season-ii"]
+	path = saves/season-ii
+	url = git@github.com:slimesmp/season-ii.git
+[submodule "saves/season-iii"]
+	path = saves/season-iii
+	url = git@github.com:slimesmp/season-iii.git
