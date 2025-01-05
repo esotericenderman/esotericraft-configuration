@@ -16,3 +16,6 @@
 [submodule "saves/season-iii"]
 	path = saves/season-iii
 	url = git@github.com:slimesmp/season-iii.git
+[submodule "saves/template"]
+	path = saves/template
+	url = git@github.com:esoterictemplates/template-minecraft-world.git
