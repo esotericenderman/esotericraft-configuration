@@ -3,7 +3,7 @@
     "multilingualItemSearch": true,
     "removableDefaultLanguage": false,
     "fallbacks": ["en_us"],
-    "previousFallbacks": ["en_us"],
+    "previousFallbacks": ["en_gb", "en_us"],
     "language": "en_gb",
     "previousLanguage": ""
 }
