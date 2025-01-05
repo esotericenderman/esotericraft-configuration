@@ -1,16 +1,16 @@
-filename = 'placeholder-api-2.5.1+1.21.3.jar'
+filename = 'placeholder-api-2.4.1+1.21.jar'
 name = 'Text Placeholder API'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [ '1.21.3', '1.21.4' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c5ef09ad639b8f02592e7da265412f8bf66caabfc1c09a3b8dd1e4f85c0df16def125990e6c0ab25fc83ce25b4d2c525fea76a95c2a04f67b155e85ba182ef7a'
+hash = '0fc2b1063277e1cadab30fdb5f1171cbdefa551f16e36daa611f67a775353e70a48538085e2bcf8fc22d657d450ce74dc8aa9ccf6e8bc6de6d5a841fb46e0828'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/eXts2L7r/versions/GtmqzyeE/placeholder-api-2.5.1%2B1.21.3.jar'
+url = 'https://cdn.modrinth.com/data/eXts2L7r/versions/cE5TczQr/placeholder-api-2.4.1%2B1.21.jar'
 
 [update.modrinth]
 mod-id = 'eXts2L7r'
-version = 'GtmqzyeE'
+version = 'cE5TczQr'

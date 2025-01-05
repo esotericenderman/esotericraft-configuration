@@ -1,16 +1,16 @@
-filename = 'betterstats-3.13.4+fabric-1.21.4.jar'
+filename = 'betterstats-3.13.6+fabric-1.21.jar'
 name = 'Better Statistics Screen'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0db5fc0e9bae93b7d4ea1caae14ccd2b018184c153f3eaccae465e9876333ceaf381ec7aa48d2dc6260a1f32fd2e3e2119aaab39a946a54f09a4e8804df82d48'
+hash = '40b8404f2d5074717beb884b8754cb41ef2d0c12ca9e64851d13a388caa7addb3afb9af7af27af5979fdab927e86dbd0409f7de7577db3649f3f7aed6a0187f5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/n6PXGAoM/versions/fPoQeGuI/betterstats-3.13.4%2Bfabric-1.21.4.jar'
+url = 'https://cdn.modrinth.com/data/n6PXGAoM/versions/G4F1t82i/betterstats-3.13.6%2Bfabric-1.21.jar'
 
 [update.modrinth]
 mod-id = 'n6PXGAoM'
-version = 'fPoQeGuI'
+version = 'G4F1t82i'
