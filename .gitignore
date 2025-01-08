@@ -15,6 +15,7 @@ config/viafabricplus/viabedrock/blob_cache
 
 # Jar files
 *.jar
+.fabric
 
 # "Old" data files - unneeded
 *.dat_old
