@@ -26,3 +26,6 @@ saves
 
 # WorldEdit archive
 config/worldedit/.archive-unpack
+
+# Resource pack data
+data/fabricDefaultResourcePacks.dat
