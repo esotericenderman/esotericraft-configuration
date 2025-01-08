@@ -9,6 +9,7 @@ command_history.txt
 
 # Cache
 cache
+.cache
 usercache.json
 config/viafabricplus/viabedrock/blob_cache
 
