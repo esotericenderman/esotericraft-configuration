@@ -35,7 +35,7 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-showSubtitles:true
+showSubtitles:false
 directionalAudio:true
 touchscreen:false
 bobView:true
