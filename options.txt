@@ -23,7 +23,7 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 renderDistance:16
-simulationDistance:12
+simulationDistance:16
 screenEffectScale:0.30545774647887325
 soundDevice:""
 autoJump:false
