@@ -125,6 +125,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.firstperson.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
