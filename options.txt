@@ -127,6 +127,8 @@ key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.presencefootsteps.settings:key.keyboard.unknown
+key_key.presencefootsteps.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
