@@ -123,6 +123,8 @@ key_key.hotbar.8:key.keyboard.c
 key_key.hotbar.9:key.keyboard.v
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.autohud.toggle-hud:key.keyboard.unknown
+key_key.autohud.peek-hud:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
