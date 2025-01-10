@@ -3,7 +3,9 @@
         "net.minecraft.class_434": true,
         "net.minecraft.class_433": true,
         "com.terraformersmc.modmenu.gui.ModsScreen": true,
-        "dev.tr7zw.firstperson.config.ConfigScreenProvider$1": true
+        "dev.tr7zw.firstperson.config.ConfigScreenProvider$1": true,
+        "com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$MinecraftGuiScreen": true,
+        "net.minecraft.class_429": true
     },
     "hideBackground": {}
 }
