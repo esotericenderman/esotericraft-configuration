@@ -1,6 +1,6 @@
 {
     "general": {
-        "multiplayer_screen_button_orientation": "right_top",
+        "multiplayer_screen_button_orientation": "left_top",
         "add_server_screen_button_orientation": "right_top",
         "direct_connect_screen_button_orientation": "right_top",
         "filter_creative_tabs": "vanilla_and_modded",
