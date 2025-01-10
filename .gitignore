@@ -12,6 +12,7 @@ cache
 .cache
 usercache.json
 config/viafabricplus/viabedrock/blob_cache
+.replay_cache
 
 # Jar files
 *.jar
