@@ -126,6 +126,8 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.autohud.toggle-hud:key.keyboard.unknown
 key_key.autohud.peek-hud:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
+key_key.cavedust.toggle:key.keyboard.unknown
+key_key.cavedust.reload:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
