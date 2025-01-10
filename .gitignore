@@ -13,6 +13,11 @@ cache
 usercache.json
 config/viafabricplus/viabedrock/blob_cache
 .replay_cache
+Distant_Horizons_server_data
+chesttracker/multiplayer
+chesttracker/singleplayer
+*.class
+.bobby
 
 # Jar files
 *.jar
