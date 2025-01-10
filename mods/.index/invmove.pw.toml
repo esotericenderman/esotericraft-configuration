@@ -1,0 +1,16 @@
+filename = 'InvMove-1.21-0.8.8-Fabric.jar'
+name = 'InvMove'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2cb72b4cac5c90c9b2a27041ee214f9b07dd8e18e783887f265ed166e0b102ea70ee258f61baffc52e0d9aac77af5f7cfaf69c3175771bea02086101e86a21c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/REfW2AEX/versions/FcdIvKru/InvMove-1.21-0.8.8-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'REfW2AEX'
+version = 'FcdIvKru'
