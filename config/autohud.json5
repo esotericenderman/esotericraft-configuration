@@ -30,7 +30,7 @@
         maximumFade: 0.0,
     },
     health: {
-        policy: "Changing",
+        policy: "NotFull",
     },
     hunger: {
         policy: "Changing",
