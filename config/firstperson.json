@@ -3,7 +3,7 @@
     "enabledByDefault": true,
     "xOffset": 9,
     "sneakXOffset": 9,
-    "sitXOffset": 0,
+    "sitXOffset": 14,
     "renderStuckFeatures": true,
     "vanillaHandsMode": "OFF",
     "dynamicMode": true,
