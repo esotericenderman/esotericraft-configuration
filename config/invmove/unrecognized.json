@@ -1,0 +1,9 @@
+{
+    "allowMovement": {
+        "net.minecraft.class_434": true,
+        "net.minecraft.class_433": true,
+        "com.terraformersmc.modmenu.gui.ModsScreen": true,
+        "dev.tr7zw.firstperson.config.ConfigScreenProvider$1": true
+    },
+    "hideBackground": {}
+}
