@@ -1,0 +1,16 @@
+filename = 'Sounds-2.3.2+1.21+fabric.jar'
+name = 'Sounds'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '886d0f918b5584f1f23d2c8c16fef07ec06bcc82153fb18b5ac8a92b9883f8b8ee9d622e903bb239a01ba66880f0a28d3bd0e0721e8b0b365f87736322568b9c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZouiUX7t/versions/mkLnP0Lq/Sounds-2.3.2%2B1.21%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'ZouiUX7t'
+version = 'mkLnP0Lq'
