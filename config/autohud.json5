@@ -56,7 +56,7 @@
         onChange: true,
     },
     mountHealth: {
-        policy: "Changing",
+        policy: "NotFull",
     },
     statusEffects: {
         active: true,
