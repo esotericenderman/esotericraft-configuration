@@ -20,6 +20,7 @@ chesttracker/singleplayer
 .bobby
 config/minihud
 config/litematica
+config./skinshuffle/skin-caches.json
 
 # Jar files
 *.jar
