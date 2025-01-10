@@ -130,6 +130,7 @@ key_key.cavedust.toggle:key.keyboard.unknown
 key_key.cavedust.reload:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
+key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
