@@ -145,13 +145,15 @@ key_key.replaymod.rollclockwise:key.keyboard.unknown
 key_key.replaymod.rollcounterclockwise:key.keyboard.unknown
 key_key.replaymod.resettilt:key.keyboard.k
 key_key.replaymod.pathpreview:key.keyboard.h
-key_key.replaymod.keyframerepository:key.keyboard.x
+key_key.replaymod.keyframerepository:key.keyboard.unknown
 key_key.replaymod.clearkeyframes:key.keyboard.unknown
 key_key.replaymod.synctimeline:key.keyboard.unknown
 key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.x
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
