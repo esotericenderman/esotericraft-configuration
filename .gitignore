@@ -18,6 +18,7 @@ chesttracker/multiplayer
 chesttracker/singleplayer
 *.class
 .bobby
+config/minihud
 
 # Jar files
 *.jar
