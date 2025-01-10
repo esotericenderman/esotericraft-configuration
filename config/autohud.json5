@@ -33,7 +33,7 @@
         policy: "Changing",
     },
     hunger: {
-        policy: "Low",
+        policy: "Changing",
     },
     revealHungerWhenHoldingFoodItem: true,
     air: {
