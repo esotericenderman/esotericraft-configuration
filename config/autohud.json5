@@ -33,7 +33,7 @@
         policy: "NotFull",
     },
     hunger: {
-        policy: "Changing",
+        policy: "NotFull",
     },
     revealHungerWhenHoldingFoodItem: true,
     air: {
