@@ -98,7 +98,7 @@
         active: false,
     },
     crosshair: {
-        active: true,
+        active: false,
         onChange: true,
     },
     crosshairAlwaysVisible: ["minecraft:bow", "minecraft:crossbow", "minecraft:trident"],
