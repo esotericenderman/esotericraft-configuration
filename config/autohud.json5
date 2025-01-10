@@ -74,7 +74,7 @@
         durabilityPercentage: 10,
         durabilityTotal: 20,
         maximumFadeHotbarItems: 0.0,
-        revealExperienceTextWithHotbar: true,
+        revealExperienceTextWithHotbar: false,
         hideTooltip: false,
     },
     scoreboard: {
