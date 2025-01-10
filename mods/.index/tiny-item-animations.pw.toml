@@ -1,0 +1,16 @@
+filename = 'tia-fabric-1.21-1.2.1.jar'
+name = 'Tiny Item Animations'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2cc6ee9daa67f30eebdbc356fa820165fbfeff1719eeb1c712d29bc117331a900f4f20b75906e0074e609ce314bd0489f64f696738bdc4c338dc3818befeb3dc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wMkevcSR/versions/3KyrwMAv/tia-fabric-1.21-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'wMkevcSR'
+version = '3KyrwMAv'
