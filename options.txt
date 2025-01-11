@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default"]
-incompatibleResourcePacks:["appleskin","badoptimizations","cherishedworlds","controlling","modernfix","searchables","worldedit","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","visualoverhaul:rounddiscs"]
+incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","betteradvancements","bookshelf","cherishedworlds","clienttweaks","controlling","craftingtweaks","distanthorizons","immersiveui","modernfix","mru","replaymod","searchables","tweakeroo","worldedit","yet_another_config_lib_v3"]
 lastServer:
 lang:en_gb
 chatVisibility:0
