@@ -64,13 +64,13 @@ hideOffhandItem = false
 hideOwnParticleEffects = false
 
 # This option will hide your shield unless you are holding a weapon.
-hideShieldUnlessHoldingWeapon = true
+hideShieldUnlessHoldingWeapon = false
 
 # This adds back the master volume slider to the options screen. Saves you a click!
 masterVolumeSlider = true
 
 # This adds back the music volume slider to the options screen. Saves you a click!
-musicVolumeSlider = true
+musicVolumeSlider = false
 
 # This prevents fireworks from being launched from your off hand if you are wearing an Elytra, unless you're flying.
 noOffhandFireworksWithElytra = true
