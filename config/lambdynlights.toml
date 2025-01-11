@@ -146,3 +146,7 @@ mode = "fancy"
 				painting = true
 				interaction = true
 				wither = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				bullet = true
+				biplane = true
