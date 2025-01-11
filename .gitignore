@@ -21,6 +21,7 @@ chesttracker/singleplayer
 config/minihud
 config/litematica
 config/skinshuffle/skin-caches.json
+chesttracker/connection_settings.dat
 
 # Jar files
 *.jar
