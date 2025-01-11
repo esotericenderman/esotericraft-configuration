@@ -155,7 +155,7 @@ key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.x
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.25
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
