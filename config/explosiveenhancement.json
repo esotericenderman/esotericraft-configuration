@@ -26,6 +26,6 @@
     "mod_enabled": true,
     "emissive_explosion": true,
     "emissive_water_explosion": true,
-    "always_show": false,
+    "always_show": true,
     "debug_logs": false
 }
