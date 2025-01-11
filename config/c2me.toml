@@ -41,8 +41,6 @@ globalExecutorParallelism = "default"
 	# 
 	enforceSafeWorldRandomAccess = "default"
 
-[clientSideConfig]
-
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 		# This allows requesting render distances higher than 127 chunks from the server
@@ -53,6 +51,8 @@ globalExecutorParallelism = "default"
 		# 
 		enableExtRenderDistanceProtocol = "default"
 		# (Default: true) Whether to modify maximum view distance
+		# Set to false for the following reasons: 
+		# Incompatible with bobby@5.2.4+mc1.21 (*) (defined in c2me) 
 		enabled = "default"
 		# (Default: 43) Max render distance allowed in game options
 		maxViewDistance = "default"
@@ -194,4 +194,3 @@ globalExecutorParallelism = "default"
 	# in a single world instance
 	# 
 	allowPOIUnloading = "default"
-
