@@ -1,0 +1,20 @@
+{
+    "allowMovement": {
+        "net.minecraft.class_434": true,
+        "net.minecraft.class_433": true,
+        "com.terraformersmc.modmenu.gui.ModsScreen": true,
+        "dev.tr7zw.firstperson.config.ConfigScreenProvider$1": true,
+        "com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$MinecraftGuiScreen": true,
+        "net.minecraft.class_429": true,
+        "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+        "immersive_aircraft.client.gui.VehicleScreen": true,
+        "fi.dy.masa.malilib.MaLiLibConfigGui": true,
+        "foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen": true,
+        "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true,
+        "fi.dy.masa.litematica.gui.GuiConfigs": true,
+        "fi.dy.masa.minihud.gui.GuiConfigs": true
+    },
+    "hideBackground": {
+        "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true
+    }
+}

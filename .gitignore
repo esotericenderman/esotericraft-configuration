@@ -25,3 +25,50 @@ dist
 *.msi
 *.jar
 *.class
+
+# Downloads
+downloads
+
+# Logs
+logs
+debug
+crash-reports
+command_history.txt
+
+# Cache
+cache
+.cache
+usercache.json
+config/viafabricplus/viabedrock/blob_cache
+.replay_cache
+Distant_Horizons_server_data
+chesttracker/multiplayer
+chesttracker/singleplayer
+*.class
+.bobby
+config/minihud
+config/litematica
+config/skinshuffle/skin-caches.json
+chesttracker/connection_settings.dat
+
+# Jar files
+.fabric
+coremods
+
+# Screenshots
+screenshots
+
+# Replay mod recordings
+replay_recordings
+
+# Worlds - should be saved with submodules anyways
+saves
+
+# WorldEdit archive
+config/worldedit/.archive-unpack
+
+# Resource pack data
+data/fabricDefaultResourcePacks.dat
+
+# Sensitive Data
+config/viafabricplus/accounts.json

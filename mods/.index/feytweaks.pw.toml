@@ -1,0 +1,16 @@
+filename = 'FeyTweaks-1.21-1.2.8.jar'
+name = 'FeyTweaks'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3a246eb9bade3be6df3e88d64d2990632ff2a8de8b7e90bc16367f73c5ae1a41f56dd81333c8c462fdd6a016f667999e2cc4203706a5542c14765ebb7e0660bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wa72oW2W/versions/XAG8m7Hj/FeyTweaks-1.21-1.2.8.jar'
+
+[update.modrinth]
+mod-id = 'Wa72oW2W'
+version = 'XAG8m7Hj'

@@ -1,0 +1,5 @@
+{
+    favorites: ['{mode:"SURVIVAL",type:"roughlyenoughitems:gamemode"}', '{mode:"CREATIVE",type:"roughlyenoughitems:gamemode"}', '{mode:"SPECTATOR",type:"roughlyenoughitems:gamemode"}', '{type:"roughlyenoughitems:weather",weather:"CLEAR"}', '{type:"roughlyenoughitems:weather",weather:"RAIN"}', '{type:"roughlyenoughitems:weather",weather:"THUNDER"}', '{mode:"MORN",type:"roughlyenoughitems:time"}', '{mode:"NOON",type:"roughlyenoughitems:time"}', '{mode:"EVENING",type:"roughlyenoughitems:time"}', '{mode:"NIGHT",type:"roughlyenoughitems:time"}'],
+    hiddenFavorites: [],
+    displays: [],
+}

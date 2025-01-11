@@ -1,0 +1,16 @@
+filename = 'nicer-skies-1.4.1+1.21.1.jar'
+name = 'Nicer Skies'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ce5e9e7b506a4c43778ca4d990dad4bf485301ba5f363f0e26b5f9dadea636bf2b0622563388682c3f99ab3d4fd4b3995325b5dcf1b4804b1299dc076ce60835'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gsJ6q45e/versions/NcLxV3wa/nicer-skies-1.4.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'gsJ6q45e'
+version = 'NcLxV3wa'

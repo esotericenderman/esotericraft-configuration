@@ -1,0 +1,30 @@
+{
+    "states": {
+        "unfocused": {
+            "frame_rate_target": 0,
+            "volume_multipliers": {
+                "master": 0.15
+            }
+        },
+        "hovered": {
+            "enable_vsync": true,
+            "volume_multipliers": {
+                "master": 0.5
+            }
+        },
+        "invisible": {
+            "volume_multipliers": {
+                "master": 0.15
+            }
+        },
+        "unplugged": {
+            "frame_rate_target": 60
+        },
+        "abandoned": {
+            "frame_rate_target": 0,
+            "volume_multipliers": {
+                "master": 0.15
+            }
+        }
+    }
+}
