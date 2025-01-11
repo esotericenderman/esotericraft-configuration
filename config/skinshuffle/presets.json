@@ -1,0 +1,14 @@
+{
+    "chosenPreset": 0,
+    "apiPreset": 0,
+    "loadedPresets": [
+        {
+            "skin": {
+                "skin_name": "profile/Assets/Minecraft Skins/King Enderman",
+                "model": "classic",
+                "type": "skinshuffle:config"
+            },
+            "name": "King Enderman"
+        }
+    ]
+}

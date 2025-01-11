@@ -19,3 +19,6 @@
 [submodule "saves/template"]
 	path = saves/template
 	url = git@github.com:esoterictemplates/template-minecraft-world.git
+[submodule "config/skinshuffle/profile"]
+	path = config/skinshuffle/skins/profile
+	url = git@github.com:esotericenderman/esotericenderman.git
