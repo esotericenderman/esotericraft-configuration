@@ -101,7 +101,6 @@
         "xmapNoSessionFinalizationWait": false,
         "xmapWaypointFreecamCompact": false,
         "lmCustomSchematicBaseDirectoryEnabledPorting": false,
-        "lmCustomSchematicBaseDirectoryPorting": "/home/enderman/.local/share/PrismLauncher/instances/prism-launcher-minecraft-instance/.minecraft/schematics",
         "lmPickBlockShulkersPorting": false,
         "mcSpectatorEnterSinkingFixPorting": false,
         "configOriginalNameScale": 0.65,
