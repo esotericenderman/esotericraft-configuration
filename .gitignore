@@ -25,6 +25,7 @@ dist
 *.msi
 *.jar
 *.class
+mods
 
 # Downloads
 downloads
