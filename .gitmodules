@@ -1,24 +1,6 @@
-[submodule "saves/firework-wars-lobby"]
-	path = saves/firework-wars-lobby
-	url = git@github.com:esotericfoundation/firework-wars-lobby.git
-[submodule "saves/firework-wars-barracks-map"]
-	path = saves/firework-wars-barracks-map
-	url = git@github.com:esotericfoundation/firework-wars-barracks-map.git
-[submodule "saves/firework-wars-town-map"]
-	path = saves/firework-wars-town-map
-	url = git@github.com:esotericfoundation/firework-wars-town-map.git
-[submodule "saves/season-i"]
-	path = saves/season-i
-	url = git@github.com:slimesmp/season-i.git
-[submodule "saves/season-ii"]
-	path = saves/season-ii
-	url = git@github.com:slimesmp/season-ii.git
-[submodule "saves/season-iii"]
-	path = saves/season-iii
-	url = git@github.com:slimesmp/season-iii.git
-[submodule "saves/template"]
-	path = saves/template
-	url = git@github.com:esoterictemplates/template-minecraft-world.git
 [submodule "config/skinshuffle/profile"]
 	path = config/skinshuffle/skins/profile
 	url = git@github.com:esotericenderman/esotericenderman.git
+[submodule "saves/template"]
+	path = saves/template
+	url = git@github.com:esoterictemplates/template-minecraft-world.git
