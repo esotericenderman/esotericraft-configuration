@@ -134,8 +134,7 @@
             }
         },
         "dynamicIcons": {
-            "default": "https://via.placeholder.com/256.png",
-            "EsotericEnderman": "https://mc-heads.net/avatar/fb00b39b991c4bcf8089bf02a6890060"
+            "default": "https://via.placeholder.com/256.png"
         },
         "dynamicVariables": {
             "default": "Example Text",
