@@ -20,7 +20,6 @@
         "id": "mention",
         "soundEvent": "minecraft:block.note_block.chime"
     },
-    "mentionKeywords": ["@EsotericEnderman"],
     "ignoreSystemChats": false,
     "enableChatSoundCooldown": false,
     "chatSoundCooldown": 0.5
