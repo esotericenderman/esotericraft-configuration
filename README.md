@@ -4,7 +4,7 @@
 
 [![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/EsotericEnderman/template-minecraft-configuration?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
-This repository serves as a template for generating new Minecraft configurations.
+This is the default configuration for the ESOTERICRAFT modpack.
 
 ## Features
 
